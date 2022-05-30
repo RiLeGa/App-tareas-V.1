@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Desactivar alarmas",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Abrir las puertas",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "Encender luces",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Realizar recorrido general",
+        "estado": "Pendiente"
+    }
+]
